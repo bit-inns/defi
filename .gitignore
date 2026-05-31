@@ -1,0 +1,8 @@
+# lang
+build
+
+# ide
+.vscode
+
+# os
+.DS_Store
